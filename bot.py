@@ -7,7 +7,7 @@ from aiogram.filters import CommandStart
 
 import handlers
 
-TOKEN = "6143264397:AAH_yy1WIC5WCBEuydhyHGeomjP7FaiDMKI"
+TOKEN = "YOUR_TOKEN"
 
 dp = Dispatcher()
 
